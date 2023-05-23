@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 cool stuff going n
 
 water
@@ -6,3 +7,11 @@ ice
 ground
 
 random stuff
+=======
+trying to make a conflict
+
+code
+java
+hello
+world
+>>>>>>> Test
